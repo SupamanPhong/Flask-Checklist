@@ -19,8 +19,6 @@ The initial version is deployed to **Heroku**: http://flask-todoapp.herokuapp.co
 
 # Installation
 
-Clone the repo:
-`git clone https://github.com/pdybka-ep/flask-todoapp.git`
 
 To run the application type:
 
