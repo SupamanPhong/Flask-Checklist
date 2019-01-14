@@ -1,6 +1,6 @@
 # Flask Checklist App
 
-The example TODOapp developed using **Flask**, **Vertabelo**, **SQLAlchemy** and **Bootstrap**. <br>
+The Checklist App using **Flask**, **Vertabelo**, **SQLAlchemy** and **Bootstrap**. <br>
 The initial version is deployed to **Heroku**: http://flask-todoapp.herokuapp.com/.
 
 # Screenshots
